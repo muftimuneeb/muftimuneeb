@@ -38,10 +38,6 @@
 
 ---
 
----
-
----
-
 🛠️ **Tech Stack:**
 
 Here are some of the technologies and tools I have worked with:
