@@ -39,5 +39,5 @@
 
 📫 **Let's Connect!**
 
-* LinkedIn: [Your LinkedIn Profile URL - You'll need to add this]
+* LinkedIn: [linkedin.com/in/ebtihaj-abdullah/]
 * Email: ebtihaj.abdullah@outlook.com
