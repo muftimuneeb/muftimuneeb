@@ -51,3 +51,19 @@
 
 * LinkedIn: [linkedin.com/in/ebtihaj-abdullah/](https://www.linkedin.com/in/ebtihaj-abdullah/)
 * Email: ebtihaj.abdullah@outlook.com
+
+---
+
+📈 **GitHub Stats:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ebtihaj-Abdullah&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ebtihaj's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebtihaj-Abdullah&layout=compact&theme=dark&hide_title=true" alt="Ebtihaj's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Ebtihaj-Abdullah&theme=dark&hide_border=true" alt="Ebtihaj's GitHub Streak" />
+</p>
