@@ -57,7 +57,7 @@
 📈 **GitHub Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibtihaj-Abdullah&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibtihaj-Abdullah&show_icons=true&theme=dark" alt="My GitHub Stats" />
 </p>
 
 <p align="center">
