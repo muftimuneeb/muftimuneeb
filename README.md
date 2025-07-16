@@ -39,5 +39,5 @@
 
 📫 **Let's Connect!**
 
-* LinkedIn: [linkedin.com/in/ebtihaj-abdullah/]
+* LinkedIn: linkedin.com/in/ebtihaj-abdullah/
 * Email: ebtihaj.abdullah@outlook.com
