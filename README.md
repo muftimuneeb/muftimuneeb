@@ -38,6 +38,17 @@
 
 ---
 
+💻 **Tech Stack:**
+
+* **Cloud Platforms & Services:** Azure (App Service, SQL Database, VNet, ARM Templates, Functions, Monitor, Application Insights, Translator Service, VMs, Security Center, RBAC, NSGs, Advisor), AWS (EC2, IAM, S3, Elastic Beanstalk, RDS, VPC, Security Groups, VPC Endpoints, Auto Scaling, CloudWatch, X-Ray, CloudFormation, Lambda, Step Functions, Trusted Advisor)
+* **DevOps & CI/CD:** CircleCI, Jira, Docker, Terraform, Grafana, Promtail, Loki, Git, GitHub, Jenkins, Cron Jobs, SSH
+* **Programming Languages:** Python, Bash, HCL, C, C#, C++, HTML, CSS, SQL, Shell Scripting (Powershell), Verilog-HDL, VHDL, Assembly Language, Golang (Learning)
+* **AI/Machine Learning & Data Science:** Deep Learning (CNNs, GANs, Neural Networks, Deep Neural Networks, LSTM), Machine Learning, BERT, Sentence-BERT, YOLOv5, ODOO, Image Processing, HOG Features, SVM, Scikit-Learn, Numpy, Keras, Data Analysis (Excel), Data Visualization (Tableau, Power BI)
+* **Databases:** SQL Database, Database Management Systems
+* **Other Tools & Technologies:** JSON, Microcontrollers (Arduino, PIC), Single Board Computers (Raspberry Pi), FPGA, Cisco Packet Tracer, Django, Putty, Quantum Computing (Learning)
+
+---
+
 🔭 **Currently Learning:**
 
 * Golang
