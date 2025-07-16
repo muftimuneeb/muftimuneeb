@@ -14,7 +14,6 @@
 
 💡 **Key Projects & Contributions:**
 
-* Deployed an "AI enabled digitally accessible Agriculture disease prevention and nutrient recommendation system" on Azure.
 * Automated workflow tasks by 300% at Insight Technologies.
 * Managed and deployed end-to-end CircleCI CI/CD pipelines.
 * Developed a deep learning model using BERT to detect subtle harassment in social media texts.
@@ -26,6 +25,16 @@
 
 * BSc Computer Systems Engineering from UET Peshawar (CGPA 3.71/4.0).
 * Microsoft Azure Fundamentals Certified (AZ-900).
+
+---
+
+🌟 **Leadership & Extracurricular Activities:**
+
+* Lead @ Google Developers Student Clubs (2023-24)
+* Lead @ Design Baithak UET Peshawar (2023-34)
+* Senior Vice President @ Computer Society ACM Chapter UET Peshawar (2023-24)
+* Alpha Microsoft Learn Student Ambassadors UET Peshawar (2023-24)
+* President (UET Peshawar) and Regional Director @ Artificial Intelligence Community of Pakistan (2023-24)
 
 ---
 
