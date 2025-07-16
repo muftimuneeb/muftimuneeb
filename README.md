@@ -8,7 +8,7 @@
 * ⚙️ **DevOps Automation:** I automate workflow tasks (achieving up to 300% efficiency!), manage end-to-end CircleCI CI/CD pipelines, and integrate them with Jira for streamlined project management.
 * 📊 **Monitoring & Logging:** Automated logs visualization and retention using Grafana, Promtail, Loki, and S3.
 * 🤖 **AI/ML Integration:** Deployed AI-enabled agriculture disease prevention systems on Azure and conducted research on protecting smart grids using deep learning. I've also developed deep learning models for harassment detection and AI-based systems for crop and weed detection.
-* 🐍 **Scripting & Infrastructure:** Extensive work with Bash, SSH, Docker, and Terraform for test infrastructure deployment.
+* 🐍 **Scripting & Infrastructure:** Extensive work with Bash, SSH, Docker.
 
 ---
 
@@ -32,6 +32,7 @@
 🔭 **Currently Learning:**
 
 * Golang
+* Terraform
 * Kubernetes
 * Quantum Computing (Quantum Annealing and Gate Based Universal QC)
 
