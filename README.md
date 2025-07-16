@@ -43,14 +43,9 @@
 Here are some of the technologies and tools I work with:
 
 <p align="center">
-  <h3>Cloud Platforms</h3>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
-</p>
-
-<p align="center">
-  <h3>DevOps & CI/CD</h3>
   <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -64,10 +59,6 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/SSH-2DA826?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH" />
   <img src="https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-</p>
-
-<p align="center">
-  <h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/HCL-408EF6?style=for-the-badge&logo=terraform&logoColor=white" alt="HCL" />
@@ -78,37 +69,21 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=white" alt="Verilog" />
   <img src="https://img.shields.io/badge/Assembly-666666?style=for-the-badge&logoColor=white" alt="Assembly" />
-</p>
-
-<p align="center">
-  <h3>AI/Machine Learning & Data Science</h3>
   <img src="https://img.shields.io/badge/AI-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep_Learning-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Odoo-7C2AD0?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-</p>
-
-<p align="center">
-  <h3>Hardware & IoT</h3>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/PIC-000000?style=for-the-badge&logoColor=white" alt="PIC" />
   <img src="https://img.shields.io/badge/FPGA-2C3E50?style=for-the-badge&logoColor=white" alt="FPGA" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1A1B1C?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-</p>
-
-<p align="center">
-  <h3>Multimedia & Design</h3>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/DaVinci_Resolve-303030?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
-
-<p align="center">
-  <h3>Other Tools</h3>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
