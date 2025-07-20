@@ -1,5 +1,5 @@
-👋 Hi there! I'm Ebtihaj Abdullah, a passionate DevOps and Cloud Engineer with a knack for building scalable and efficient systems.
-🥸 Also a part-time AI R&D professional
+👋 Hi there! I'm Muneeb Ur Rehman, a passionate Data Scientist and PHP Developer with a knack for building fast and efficint data asd web systems.
+🥸 Also a part-time Python Developer
 ---
 
 🚀 **What I Do:**
